@@ -1,1 +1,2 @@
-# actProperties-master
+# actProperties
+ejercicio_programación
